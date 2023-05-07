@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MontserratRoman-Light, Montserrat;
+        font-size: 30px;
+        font-variation-settings: 'wght' 300;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-10 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-9" x="-1100" width="1080" height="1080"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-9" x="1100" width="1080" height="1080"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-9" width="1080" height="540"/>
+    </clipPath>
+  </defs>
+  <g class="cls-8">
+    <image width="1920" height="1080" transform="translate(-1520 0)" xlink:href="../../../../Downloads/web-1.png"/>
+  </g>
+  <g class="cls-6">
+    <image width="1920" height="1080" transform="translate(680 0)" xlink:href="../../../../Downloads/web-3,-4-y-8.png"/>
+  </g>
+  <rect class="cls-9" y="540" width="1080" height="540"/>
+  <g class="cls-2">
+    <image width="1093" height="1080" transform="translate(.23 -396.58) scale(.99)" xlink:href="../../../../Downloads/web-2.png"/>
+  </g>
+  <text class="cls-1" transform="translate(285.02 774.96)"><tspan x="0" y="0">Al llegar al </tspan><tspan class="cls-5" x="160.77" y="0">r</tspan><tspan x="172.17" y="0">estau</tspan><tspan class="cls-10" x="253.92" y="0">r</tspan><tspan x="264.3" y="0">an</tspan><tspan class="cls-12" x="301.98" y="0">t</tspan><tspan x="313.35" y="0">e </tspan><tspan class="cls-11" x="338.96" y="0">L</tspan><tspan x="356.25" y="0">un</tspan><tspan class="cls-11" x="396.5" y="0">c</tspan><tspan x="412.88" y="0">hb</tspan><tspan class="cls-3" x="453.32" y="0">o</tspan><tspan x="471.35" y="0">x, </tspan><tspan class="cls-4" x="0" y="36">t</tspan><tspan x="11.37" y="36">e sientas en una mesa jun</tspan><tspan class="cls-3" x="397.61" y="36">t</tspan><tspan x="408.98" y="36">o a la </tspan><tspan class="cls-7" x="0" y="72">v</tspan><tspan x="15.39" y="72">entana y espe</tspan><tspan class="cls-10" x="222.27" y="72">r</tspan><tspan x="232.65" y="72">as.</tspan></text>
+</svg>
