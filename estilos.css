@@ -97,14 +97,14 @@ body{
 
 p{
 	background-color: #E9E9E9;
-	margin: 60px;
+	margin: 70px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 37pt;
-	padding-right: 30px;
-	padding-left: 30px;
+	padding-right: 40px;
+	padding-left: 40px;
 	text-align: left;
 }
 
