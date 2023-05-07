@@ -91,7 +91,7 @@ body{
 	justify-content: center;
 }
 
-h2{
+p{
 	background-color: #E9E9E9;
 	margin: 50px;
 	display: flex;
@@ -108,7 +108,7 @@ h2{
 	justify-content: center;
 }
 
-.text_container_pagina h2{
+.text_container_pagina p{
 	color: #C80003;
 	font-size: 12pt;
 }
