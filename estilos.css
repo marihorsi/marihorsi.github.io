@@ -43,7 +43,7 @@ body{
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	width: 50%;
+	width: 70%;
 }
 
 .logo{
@@ -100,7 +100,7 @@ p{
 	align-items: center;
 	justify-content: center;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 50pt;
+	font-size: 60pt;
 }
 
 .text_container_pagina{
@@ -112,6 +112,6 @@ p{
 
 .text_container_pagina p{
 	color: #C80003;
-	font-size: 20pt;
+	font-size: 40pt;
 }
 
