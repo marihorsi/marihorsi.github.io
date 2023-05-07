@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+	height: 100%;
+	width: 100%;
+	background-color: #E9E9E9;
+	scroll-behavior:smooth;
+}
+
+body{
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+}
+
+#portada{
+	width: 100%;
+	height: 100%;
+	background-color: #C80003;
+	display: inline-block;
+	justify-content: center;
+	text-align: center;
+	position: relative;
+}
+
+.flecha{
+	bottom: 0;
+	display: block;
+	position: absolute;
+	margin-bottom: 20px;
+	right: 50%;
+	height: 7%;
+}
+
+.titulo{
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+.logo{
+	position: absolute;
+	padding-top: 20px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+.container{
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	scroll-snap-type: y mandatory;
+}
+
+.container::-webkit-scrollbar{
+	display: none;
+}
+
+.slider{
+	width: 100%;
+	height: 100%;
+	scroll-snap-align: center;
+	scroll-snap-stop: always;
+	snap-direction: y;
+	object-fit: cover;
+	justify-content: space-between;
+}
+
+.horizontal{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	margin: 0px;
+	padding: 0px;
+}
+
+.text_container{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h2{
+	background-color: #E9E9E9;
+	margin: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15pt;
+}
+
+.text_container_pagina{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.text_container_pagina h2{
+	color: #C80003;
+	font-size: 12pt;
+}
+
