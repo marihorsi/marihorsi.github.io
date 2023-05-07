@@ -43,14 +43,16 @@ body{
 	right: 0;
 	bottom: 0;
 	margin: auto;
+	width: 50%;
 }
 
 .logo{
 	position: absolute;
-	padding-top: 20px;
+	padding-top: 30px;
 	left: 0;
 	right: 0;
 	margin: auto;
+	width: 40%;
 }
 
 .container{
@@ -98,7 +100,7 @@ p{
 	align-items: center;
 	justify-content: center;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 30pt;
+	font-size: 50pt;
 }
 
 .text_container_pagina{
