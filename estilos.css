@@ -115,10 +115,11 @@ p{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	background-color: #000000;
 }
 
 .text_container_pagina p{
-	color: #C80003;
+	color: #E9E9E9;
 	font-size: 30pt;
 }
 
