@@ -9,22 +9,6 @@
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 	
-	<script type="application/javascript">
-		$(document).ready(function(){
-		  $(window).on('scroll', function () { // Evento de Scroll
-			  if (($(window).scrollTop() + $(window).height()) == $(document).height()) { // Si estamos al final de la página
-				  $('.flecha').stop(true).animate({ // Escondemos el div
-					  opacity: 0
-				  }, 250);
-			  } else { // Si no
-				  $('.flecha').stop(true).animate({ // Mostramos el div
-					  opacity: 1
-				  }, 200);
-			  }
-		  });
-		});
-	</script>
-	
 </head>
 
 <body>
